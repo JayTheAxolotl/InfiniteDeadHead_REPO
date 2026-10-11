@@ -1,0 +1,8 @@
+/home/jacob/Projects/BepInEx/Repo/InfiniteDeadHead/bin/Debug/netstandard2.1/InfiniteDeadHead.deps.json
+/home/jacob/Projects/BepInEx/Repo/InfiniteDeadHead/bin/Debug/netstandard2.1/InfiniteDeadHead.dll
+/home/jacob/Projects/BepInEx/Repo/InfiniteDeadHead/obj/Debug/netstandard2.1/InfiniteDeadHead.csproj.AssemblyReference.cache
+/home/jacob/Projects/BepInEx/Repo/InfiniteDeadHead/obj/Debug/netstandard2.1/InfiniteDeadHead.GeneratedMSBuildEditorConfig.editorconfig
+/home/jacob/Projects/BepInEx/Repo/InfiniteDeadHead/obj/Debug/netstandard2.1/InfiniteDeadHead.AssemblyInfoInputs.cache
+/home/jacob/Projects/BepInEx/Repo/InfiniteDeadHead/obj/Debug/netstandard2.1/InfiniteDeadHead.AssemblyInfo.cs
+/home/jacob/Projects/BepInEx/Repo/InfiniteDeadHead/obj/Debug/netstandard2.1/InfiniteDeadHead.csproj.CoreCompileInputs.cache
+/home/jacob/Projects/BepInEx/Repo/InfiniteDeadHead/obj/Debug/netstandard2.1/InfiniteDeadHead.dll
