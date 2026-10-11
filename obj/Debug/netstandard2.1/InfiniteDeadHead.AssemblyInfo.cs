@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AXIAN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ae077e52ea3cbe732fd9349152e933b5689c253")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfiniteDeadHead")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfiniteDeadHead")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
